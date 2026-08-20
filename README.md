@@ -102,6 +102,14 @@ Storefront -> Product -> Shopping Cart
 
 This demonstrated that the containerized application stack was running and that multiple services were participating in the request flow.
 
+### OpenTelemetry Storefront on AWS
+
+![OpenTelemetry Astronomy Shop running on AWS EC2](docs/images/opentelemetry-demo-home.jpg)
+
+### Shopping Cart Workflow
+
+![Shopping cart workflow validated on AWS EC2](docs/images/shopping-cart.jpg)
+
 ## Observability Components
 
 ### OpenTelemetry Collector
@@ -152,7 +160,6 @@ docker system df
 
 ## Next Enhancements
 
-- Add screenshots of the validated AWS-hosted storefront.
 - Capture Jaeger distributed traces.
 - Add Grafana dashboards for request rate, errors, and latency.
 - Document RED metrics: Rate, Errors, and Duration.
