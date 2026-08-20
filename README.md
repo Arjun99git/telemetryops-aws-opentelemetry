@@ -104,11 +104,11 @@ This demonstrated that the containerized application stack was running and that 
 
 ### OpenTelemetry Storefront on AWS
 
-![OpenTelemetry Astronomy Shop running on AWS EC2](docs/images/opentelemetry-demo-home.jpg)
+![OpenTelemetry Astronomy Shop running on AWS EC2](https://raw.githubusercontent.com/Arjun99git/telemetryops-aws-opentelemetry/main/docs/images/opentelemetry-demo-home.jpg)
 
 ### Shopping Cart Workflow
 
-![Shopping cart workflow validated on AWS EC2](docs/images/shopping-cart.jpg)
+![Shopping cart workflow validated on AWS EC2](https://raw.githubusercontent.com/Arjun99git/telemetryops-aws-opentelemetry/main/docs/images/shopping-cart.jpg)
 
 ## Observability Components
 
